@@ -1,6 +1,6 @@
-# Gerador de Senhas
+# Gerador de Senhas (EM ANDAMENTO)
 
-Este é um simples gerador de senhas criado em [linguagem de programação]. Ele gera senhas aleatórias com a quantidade de caracteres especificada pelo usuário.
+Este é um simples gerador de senhas criado com react native. Ele gera senhas aleatórias com a quantidade de caracteres especificada pelo usuário.
 
 ## Funcionalidades
 
