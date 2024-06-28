@@ -11,13 +11,21 @@ const styles = StyleSheet.create({
     logoContainer:{
       flexDirection:'column',
       borderColor: 'red',
-      borderWidth: 2,
+      borderWidth:0,
       justifyContent:'center',
       alignSelf: 'center',
       marginBottom:60,
       paddingTop:20,
       paddingBottom:10,
-      backgroundColor:'#f2f' //Cor somente para marcar container
+      backgroundColor:'#fff' //Cor somente para marcar container
+    },
+    inputContainer:{
+      width:'70%',
+      backgroundColor: '#fff',
+      alignItems:'center',
+      justifyContent:'center',
+      flexDirection: 'column',
+      
     }
   });
 
